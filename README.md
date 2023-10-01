@@ -25,7 +25,7 @@ The probelem solution is devided into 3 parts:
 - Part 3: Interpretation: Analyze the main property differences between the clusters and investigate their relation to patient outcomes. Provide visualizations to support findings.
 
 ## Files and Notebooks required:
-- COMP90089_assignment2_1363757_environment.yml
+- COMP90089_assignment2_1363757_environment.yaml
 - COMP90089_assignment2_1363757_notebook.ipynb
 - hypotension_patients.csv
 
