@@ -27,9 +27,9 @@ The problem solution is divided into 3 parts:
 The details of the solution are present in the notebook.
 
 ## Files and Notebooks Required:
-- COMP90089_assignment2_1363757_environment.yaml
-- COMP90089_assignment2_1363757_notebook.ipynb
-- hypotension_patients.csv
+- COMP90089_assignment2_1363757_environment.yaml - Environment file
+- COMP90089_assignment2_1363757_notebook.ipynb - Notebook(Solution)
+- hypotension_patients.csv (Dataset)
 
 ## Instructions to Recreate the Environment:
 ### Method 1:
@@ -37,10 +37,10 @@ The details of the solution are present in the notebook.
 - Make sure Anaconda is installed on the system ([Download link](https://www.anaconda.com/download))
 - Open Anaconda prompt. This is the Anaconda command-line interface.
 - Execute this command: `conda env create -f COMP90089_assignment2_1363757_environment.yaml` 
-    This will recreate the environment. It will take a couple of minutes to recreate the environment.
+    This will recreate the environment. It will take a couple of minutes to recreate the environment. Change the path of the environment file if needed.
 - Open Anaconda and then change the environment to 'Environment_1363757.'
 - Launch Jupyter Notebook.
-- Click on 'COMP90089_assignment2_1363757_notebook.ipynb' to open the notebook and execute the notebook.
+- Click on 'COMP90089_assignment2_1363757_notebook.ipynb' to open the notebook and execute the notebook. Change the path of the hypotension_patients.csv file if needed.
 
 ### Method 2:
 This method is the fallback method.
