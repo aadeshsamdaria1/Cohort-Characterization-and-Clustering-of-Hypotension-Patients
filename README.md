@@ -32,7 +32,7 @@ The details of the solution are present in the notebook.
 - hypotension_patients.csv
 
 ## Instructions to Recreate the Environment:
-Method 1:
+### Method 1:
 - Ensure all the files mentioned above are in the same directory.
 - Make sure Anaconda is installed on the system ([Download link](https://www.anaconda.com/download))
 - Open Anaconda prompt. This is the Anaconda command-line interface.
@@ -42,7 +42,7 @@ Method 1:
 - Launch Jupyter Notebook.
 - Click on 'COMP90089_assignment2_1363757_notebook.ipynb' to open the notebook and execute the notebook.
 
-Method 2:
+### Method 2:
 This method is the fallback method.
 If there was an issue in creating the environment, open Anaconda, and in the default environment, manually install the core packages and versions. 
 
