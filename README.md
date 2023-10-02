@@ -61,7 +61,7 @@ The packages can be installed using the command :`conda install pandas=1.5.3 mat
 - Install Required Libraries: In the first cell of the notebook, add the following code to install the required libraries
 	`!pip install pandas==1.5.3 matplotlib==3.7.0 seaborn==0.12.2 scikit-learn==1.2.1`
 	Run this cell by selecting it and clicking the "Run" button in Colab.
-- Exxecute the Notebook: Change the path to hypotension_patients.csv if required and run each cell of the notebook sequentially by clicking the "Run" button or using the Shift+Enter keyboard shortcut.
+- Execute the Notebook: Change the path to hypotension_patients.csv if required and run each cell of the notebook sequentially by clicking the "Run" button or using the Shift+Enter keyboard shortcut.
 
 
 ## References:
