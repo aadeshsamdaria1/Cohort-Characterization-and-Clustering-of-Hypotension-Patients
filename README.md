@@ -31,6 +31,12 @@ The details of the solution are present in the notebook.
 - COMP90089_assignment2_1363757_notebook.ipynb - Notebook(Solution)
 - hypotension_patients.csv (Dataset)
 
+## Core Packages and Versions:
+- Pandas version: 1.5.3
+- Matplotlib version: 3.7.0
+- Seaborn version: 0.12.2
+- Scikit-learn version: 1.2.1
+
 ## Instructions to Recreate the Environment:
 ### Method 1:
 - Ensure all the files mentioned above are in the same directory.
@@ -46,12 +52,6 @@ The details of the solution are present in the notebook.
 This method is the fallback method.
 If there was an issue in creating the environment, open Anaconda, and in the default environment, manually install the core packages and versions through the UI or using a command. 
 The packages can be installed using the command :`conda install pandas=1.5.3 matplotlib=3.7.0 seaborn=0.12.2 scikit-learn=1.2.1`
-
-## Core Packages and Versions:
-- Pandas version: 1.5.3
-- Matplotlib version: 3.7.0
-- Seaborn version: 0.12.2
-- Scikit-learn version: 1.2.1
 
 ### Method 3:
 - This method is an alternative fallback method.
