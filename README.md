@@ -13,7 +13,12 @@ The dataset contains information about patients with profound hypotension. The d
 - apsiii: Severity of illness score
 - LoS: Length of stay in ICU (days - patient outcome variable)
 - charlson_comorbidity_index: Co-morbidity index
-The goal is to find subgroups of patients that can have similar characteristics. This can be useful to predict the mortality rate and other outcomes of a new patient. 
+The goal is to find subgroups of patients that can have similar characteristics. This can be useful to predict the mortality rate and other outcomes of a new patient.  <br>
+
+
+**Importance:** Hypotension is a severe medical condition characterized by abnormally low blood pressure. Hypotension can lead to various life-threatening complications. Therefore, it is crucial for healthcare professionals to promptly diagnose patients and develop treatment plans while efficiently allocating medical resources.<br>
+
+**Obstacles:** The challenges include detecting missing data and outliers within the dataset, determining an appropriate value for 'k' in clustering analysis, and validating the choice of 'k' through alternative methods. Additionally, identifying the common characteristics of patients within distinct subgroups is a significant challenge.<br>
 
 ## Problem Solution Overview:
 The problem solution is divided into 3 parts:
