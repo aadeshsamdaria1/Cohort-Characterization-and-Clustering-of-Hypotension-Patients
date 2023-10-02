@@ -38,19 +38,31 @@ The details of the solution are present in the notebook.
 - Open Anaconda prompt. This is the Anaconda command-line interface.
 - Execute this command: `conda env create -f COMP90089_assignment2_1363757_environment.yaml` 
     This will recreate the environment. It will take a couple of minutes to recreate the environment. Change the path of the environment file if needed.
-- Open Anaconda and then change the environment to 'Environment_1363757.'
+- Open Anaconda and then change the environment to 'Environment_1363757.' or run the command: `conda activate Environment_1363757`
 - Launch Jupyter Notebook.
 - Click on 'COMP90089_assignment2_1363757_notebook.ipynb' to open the notebook and execute the notebook. Change the path of the hypotension_patients.csv file if needed.
 
 ### Method 2:
 This method is the fallback method.
-If there was an issue in creating the environment, open Anaconda, and in the default environment, manually install the core packages and versions. 
+If there was an issue in creating the environment, open Anaconda, and in the default environment, manually install the core packages and versions through the UI or using a command. 
+The packages can be installed using the command :`conda install pandas=1.5.3 matplotlib=3.7.0 seaborn=0.12.2 scikit-learn=1.2.1`
 
 ## Core Packages and Versions:
 - Pandas version: 1.5.3
 - Matplotlib version: 3.7.0
 - Seaborn version: 0.12.2
 - Scikit-learn version: 1.2.1
+
+### Method 3:
+- This method is an alternative fallback method.
+- Go to Google Colab: Open a web browser and go to Google Colab.
+- Click on "File" > "Upload Notebook" and upload the notebook file COMP90089_assignment2_1363757_notebook.ipynb from your local system.
+- Upload the dataset file hypotension_patients.csv to Google Colab using the "Files" tab in the left sidebar.
+- Install Required Libraries: In the first cell of the notebook, add the following code to install the required libraries
+	`!pip install pandas==1.5.3 matplotlib==3.7.0 seaborn==0.12.2 scikit-learn==1.2.1`
+	Run this cell by selecting it and clicking the "Run" button in Colab.
+- Exxecute the Notebook: Change the path to hypotension_patients.csv if required and run each cell of the notebook sequentially by clicking the "Run" button or using the Shift+Enter keyboard shortcut.
+
 
 ## References:
 - Ahlqvist, E., Storm, P., Käräjämäki, A., Martinell, M., Dorkhan, M., Carlsson, A., Vikman, P., Prasad, R.B., Aly, D.M., Almgren, P. and Wessman, Y., 2018. Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables. The Lancet Diabetes & Endocrinology, 6(5), pp.361-369.
