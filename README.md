@@ -20,6 +20,8 @@ The goal is to find subgroups of patients that can have similar characteristics.
 
 **Obstacles:** The challenges include detecting missing data and outliers within the dataset, determining an appropriate value for 'k' in clustering analysis, and validating the choice of 'k' through alternative methods. Additionally, identifying the common characteristics of patients within distinct subgroups is a significant challenge.<br>
 
+Note: Outlier detection was not included in the submission as all attribute values in the dataset fell within the valid range for each specific attribute. <br>
+
 ## Problem Solution Overview:
 The problem solution is divided into 3 parts:
 
@@ -69,6 +71,7 @@ The packages can be installed using the command :`conda install pandas=1.5.3 mat
 - Execute the Notebook: Change the path to hypotension_patients.csv if required and run each cell of the notebook sequentially by clicking the "Run" button or using the Shift+Enter keyboard shortcut.
 
 
-## References:
+## References and resources:
 - Ahlqvist, E., Storm, P., Käräjämäki, A., Martinell, M., Dorkhan, M., Carlsson, A., Vikman, P., Prasad, R.B., Aly, D.M., Almgren, P. and Wessman, Y., 2018. Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables. The Lancet Diabetes & Endocrinology, 6(5), pp.361-369.
 - Roffman, C., Buchanan, J. and Allison, G., 2016. Charlson Comorbidities Index. Journal of Physiotherapy, 62(3).
+- Dataset outlier consultation - [Dr.J.Aman Kumar](https://www.practo.com/chennai/doctor/dr-j-aman-kumar-general-physician)
