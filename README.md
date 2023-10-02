@@ -39,10 +39,10 @@ The details of the solution are present in the notebook.
 - hypotension_patients.csv (Dataset)
 
 ## Core Packages and Versions:
-- Pandas version: 1.5.3
-- Matplotlib version: 3.7.0
-- Seaborn version: 0.12.2
-- Scikit-learn version: 1.2.1
+- Pandas version: 1.5.3 - [Pandas](https://pandas.pydata.org/)
+- Matplotlib version: 3.7.0 - [Matplotlib](https://matplotlib.org/)
+- Seaborn version: 0.12.2 - [Seaborn](https://seaborn.pydata.org/)
+- Scikit-learn version: 1.2.1 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 ## Instructions to Recreate the Environment:
 ### Method 1:
@@ -73,5 +73,5 @@ The packages can be installed using the command :`conda install pandas=1.5.3 mat
 
 ## References and resources:
 - Ahlqvist, E., Storm, P., Käräjämäki, A., Martinell, M., Dorkhan, M., Carlsson, A., Vikman, P., Prasad, R.B., Aly, D.M., Almgren, P. and Wessman, Y., 2018. Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables. The Lancet Diabetes & Endocrinology, 6(5), pp.361-369. [Clustering in medical field](https://pubmed.ncbi.nlm.nih.gov/29503172/)
-- [Charlson Comorbidities Index](Roffman, C., Buchanan, J. and Allison, G., 2016. Charlson Comorbidities Index. Journal of Physiotherapy, 62(3).)
+- Roffman, C., Buchanan, J. and Allison, G., 2016. Charlson Comorbidities Index. Journal of Physiotherapy, 62(3).[Charlson Comorbidities Index](https://espace.curtin.edu.au/handle/20.500.11937/24203)
 - Dataset outlier consultation - [Dr.J.Aman Kumar](https://www.practo.com/chennai/doctor/dr-j-aman-kumar-general-physician)
