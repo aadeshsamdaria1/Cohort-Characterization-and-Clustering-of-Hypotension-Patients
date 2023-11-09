@@ -75,3 +75,6 @@ The packages can be installed using the command :`conda install pandas=1.5.3 mat
 - Ahlqvist, E., Storm, P., Käräjämäki, A., Martinell, M., Dorkhan, M., Carlsson, A., Vikman, P., Prasad, R.B., Aly, D.M., Almgren, P. and Wessman, Y., 2018. Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variables. The Lancet Diabetes & Endocrinology, 6(5), pp.361-369. [Clustering in medical field](https://pubmed.ncbi.nlm.nih.gov/29503172/)
 - Roffman, C., Buchanan, J. and Allison, G., 2016. Charlson Comorbidities Index. Journal of Physiotherapy, 62(3).[Charlson Comorbidities Index](https://espace.curtin.edu.au/handle/20.500.11937/24203)
 - Dataset outlier consultation - [Dr.J.Aman Kumar](https://www.practo.com/chennai/doctor/dr-j-aman-kumar-general-physician)
+
+##Score
+12.38/15 Points
