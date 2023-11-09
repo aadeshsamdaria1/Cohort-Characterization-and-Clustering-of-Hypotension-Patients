@@ -1,8 +1,5 @@
-# Assignment 2 - Cohort Characterization and Clustering
+# Cohort Characterization and Clustering
 # COMP90089 - Machine Learning Applications for Health
-# Student Name: Aadesh Samdaria
-# Student ID: 1363757
-# Email: asamdaria@student.unimelb.edu.au
 
 ## Problem Description:
 The dataset contains information about patients with profound hypotension. The dataset includes the following columns:
