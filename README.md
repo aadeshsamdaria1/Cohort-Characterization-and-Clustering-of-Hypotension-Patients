@@ -1,5 +1,4 @@
-# Cohort Characterization and Clustering
-# COMP90089 - Machine Learning Applications for Health
+# Cohort Characterization and Clustering of Hypotension Patients
 
 ## Problem Description:
 The dataset contains information about patients with profound hypotension. The dataset includes the following columns:
