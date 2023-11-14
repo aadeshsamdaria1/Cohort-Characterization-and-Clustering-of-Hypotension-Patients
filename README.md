@@ -30,8 +30,8 @@ The problem solution is divided into 3 parts:
 The details of the solution are present in the notebook.
 
 ## Files and Notebooks Required:
-- COMP90089_assignment2_1363757_environment.yaml - Environment file
-- COMP90089_assignment2_1363757_notebook.ipynb - Notebook(Solution)
+- environment.yaml - Environment file
+- cohort-characterization-and-clustering.ipynb - Notebook(Solution)
 - hypotension_patients.csv (Dataset)
 
 ## Core Packages and Versions:
